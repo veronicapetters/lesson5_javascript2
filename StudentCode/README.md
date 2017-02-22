@@ -13,7 +13,7 @@ Veronica Petters
 Lesson 5: This lesson introduces the advantages of code modularization and reusable code by using conditional statements, loops, and functions.
 
 ### View Project:
-https://veronicapetters.github.io/lesson5_javascript2/
+https://veronicapetters.github.io/lesson5_javascript2/StudentCode
 
 ### Lessons Learned in the Assignment:
 1. The innerHTML property used with the document.getElementById() sets or returns the HTML content (inner HTML) of an element.
